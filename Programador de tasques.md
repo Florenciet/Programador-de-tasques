@@ -5,4 +5,5 @@
 
   
 ![image](https://github.com/user-attachments/assets/1319dbb5-3ecb-4b0c-b6ea-691e0e0b7a30)
+
 Creem la tasca bàsica.

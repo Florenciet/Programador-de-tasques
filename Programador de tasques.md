@@ -32,3 +32,36 @@ Seleccionem el programa i esperem a que s'executi.
 ![image](https://github.com/user-attachments/assets/64e9dca1-3133-44de-a1ec-151264ac22b2)
 
 El programa s'ha executat correctament !!
+
+
+
+# Activitat 2
+- Programa el reinici de l'ordinador per a un moment de la classe.
+- Mostra tot el procés i el resultat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
